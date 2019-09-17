@@ -1,0 +1,105 @@
+﻿extractors:
+ Experience:
+  - [Developer, Software Developer, Software Engineer, Dev]
+  - [DataEngineer,  Data Engineer]
+  - [DataScientist,  Data Scientist]
+  - [Chef de projet, Chef de projets, Responsable de projet, Responsable de projets, PMO]
+
+ Platforms:
+  - [Unix, Linux, GNU/Linux]
+  - [Windows, Windows8, Windows10]
+  - [Mac, MacOS]
+  - IOS
+  - Android
+  
+ Database:
+  - SQL
+  - SQLite
+  - MySQL
+  - Oracle
+  - [NoSQL, MongoDB]
+  
+ DataWarehouse:
+  - [Postgress, Postgresql]
+  - [Apache Hadoop, Hadoop]
+  - PIG
+  - HIVE
+  - MapReduce
+  - [Apache Spark, Spark]
+  - Kafka
+
+ DataVisualisation:
+  - Tableau
+  - [PowerBI, Power BI]
+  - [Qlik, QlikView, Qlik Sense]
+  - SAS
+  
+ DevOps:
+  - IntelliJ
+  - [SonarQube, Sonar Qube, Sonar]
+  - [Maven, Apache Maven]
+  - Nexus
+  - Jenkins 
+  
+ Cloud:
+  - [AWS, Amazon Web Services]
+  - [Microsoft Azure, Microsoft Cloud Azure]
+  - [Google Cloud Platform, Google Cloud, GCP]
+
+ BackProgramming:
+  - [java, JavaEE]
+  - C
+  - C++
+  - C#
+  - .NET
+  - Matlab
+  - [R, R Programming Language]
+  - Python
+  - VHDL
+  - PHP
+  - Swift
+  - TypeScript
+  - [GO, Go Programming Language]
+  - [Ruby, Ruby on Rails]
+  - Perl
+  - Kotlin
+  - Rust
+  - Scala
+
+ FrontProgramming:
+  - [JavaScript, js]
+  - TypeScript
+  - [HTML, CSS, HTML/CSS]
+
+ Methodologie:
+  - Cycle en V
+  - [Agile, Scrum, Extreme programming]
+  - Kanban
+  - Lean
+  - Design Thinking
+ 
+ MachineLearning:
+  - [sklearn, scikit-learn, sk-learn]
+  - [tensorflow, tf, tensor-flow]
+  - keras
+  - h20
+    
+ Mobile:
+  - IOS
+  - Android
+  - Windows Phone
+
+ Langages:
+  - [French, Francais, Français]
+  - [Dutch, Néerlandais, Neerlandais]
+  - [English, Anglais]
+  - [German, Allemand]
+  - [Spanish, Espagnol]
+  - [Chinese, Mandarin, Chinois]
+
+ Open-source:
+  - github
+  - bitbucket
+  - gitlab
+  - sourceforge
+  - gitkraken
